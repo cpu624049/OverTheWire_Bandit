@@ -213,3 +213,18 @@ apt-cyg update
 apt-cyg install libedit0
 ls -l /bin/cygedit-0.dll
 exec bash -l
+git init
+git add .
+git commit -m "first commit"
+git config --global user.email "kjs940426@naver.com"
+git config --global user.name "cpu624049"
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/cpu624049/OverTheWire_Bandit.git
+git push -u origin main
+git status
+ls -al
+clear
+sftp -P 2220 bandit1@bandit.labs.overthewire.org
+sftp -P 2220 bandit2@bandit.labs.overthewire.org
+sftp -P 2220 bandit3@bandit.labs.overthewire.org
