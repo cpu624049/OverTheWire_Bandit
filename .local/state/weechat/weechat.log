@@ -1,0 +1,35 @@
+[2025-09-24 11:11:18] WeeChat 4.7.1 (compiled on Aug 16 2025 23:37:06)
+[2025-09-24 11:11:18] Reading configuration file sec.conf
+[2025-09-24 11:11:18] Reading configuration file weechat.conf
+[2025-09-24 11:11:18] Reading configuration file plugins.conf
+[2025-09-24 11:11:18] Reading configuration file charset.conf
+[2025-09-24 11:11:18] Reading configuration file logger.conf
+[2025-09-24 11:11:18] Reading configuration file exec.conf
+[2025-09-24 11:11:18] Reading configuration file trigger.conf
+[2025-09-24 11:11:18] Reading configuration file alias.conf
+[2025-09-24 11:11:18] Reading configuration file buflist.conf
+[2025-09-24 11:11:18] Reading configuration file fifo.conf
+[2025-09-24 11:11:18] Reading configuration file typing.conf
+[2025-09-24 11:11:18] Reading configuration file xfer.conf
+[2025-09-24 11:11:18] Reading configuration file irc.conf
+[2025-09-24 11:11:18] Reading configuration file relay.conf
+[2025-09-24 11:11:18] Reading configuration file script.conf
+[2025-09-24 11:11:18] Reading configuration file fset.conf
+[2025-09-24 11:11:23] irc: connecting to server ircs.overthewire.org/6667...
+[2025-09-24 11:12:38] irc: connecting to server ircs.overthewire.org/6697 (TLS)...
+[2025-09-24 11:18:20] Writing configuration file plugins.conf
+[2025-09-24 11:18:20] Writing configuration file xfer.conf
+[2025-09-24 11:18:20] Writing configuration file typing.conf
+[2025-09-24 11:18:20] Writing configuration file trigger.conf
+[2025-09-24 11:18:20] Writing configuration file script.conf
+[2025-09-24 11:18:20] Writing configuration file relay.conf
+[2025-09-24 11:18:20] Writing configuration file logger.conf
+[2025-09-24 11:18:20] Writing configuration file irc.conf
+[2025-09-24 11:18:20] Writing configuration file fset.conf
+[2025-09-24 11:18:20] Writing configuration file fifo.conf
+[2025-09-24 11:18:20] Writing configuration file exec.conf
+[2025-09-24 11:18:20] Writing configuration file charset.conf
+[2025-09-24 11:18:20] Writing configuration file buflist.conf
+[2025-09-24 11:18:20] Writing configuration file alias.conf
+[2025-09-24 11:18:20] Writing configuration file weechat.conf
+[2025-09-24 11:18:20] Writing configuration file sec.conf

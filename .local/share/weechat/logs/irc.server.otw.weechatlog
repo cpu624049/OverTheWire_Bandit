@@ -1,0 +1,167 @@
+2025-09-24 11:00:37	--	irc: connecting to server irc.overthewire.org/6667 (TLS)...
+2025-09-24 11:00:38	=!=	irc: TLS handshake failed
+2025-09-24 11:00:38	=!=	irc: error: An unexpected TLS packet was received.
+2025-09-24 11:00:38	--	irc: reconnecting to server in 10 seconds
+2025-09-24 11:00:47		irc: auto-reconnection is cancelled
+2025-09-24 11:00:47	--	irc: disconnected from server
+2025-09-24 11:02:57	--	irc: connecting to server ircs.overthewire.org/6667...
+2025-09-24 11:02:57	--	irc: connected to ircs.overthewire.org/6667 (13.49.61.60)
+2025-09-24 11:02:58	--	ircs.overthewire.org: *** Looking up your hostname...
+2025-09-24 11:02:58	--	ircs.overthewire.org: *** Could not resolve your hostname: Domain not found; using your IP address (112.169.91.76) instead.
+2025-09-24 11:02:58	--	irc: client capability, server supports: inspircd.org/poison inspircd.org/standard-replies multi-prefix setname
+2025-09-24 11:02:58	--	irc: client capability, requesting: multi-prefix setname
+2025-09-24 11:02:58	--	irc: client capability, enabled: multi-prefix setname
+2025-09-24 11:02:59	--	Welcome to the OverTheWire IRC Network Linetek!Linetek@112.169.91.76
+2025-09-24 11:02:59	--	Your host is ircs.overthewire.org, running version InspIRCd-3
+2025-09-24 11:02:59	--	This server was created 17:43:09 Jul 04 2024
+2025-09-24 11:02:59	--	ircs.overthewire.org InspIRCd-3 BGHILRSWcdgikorswx BCDFGIJKLMNOPQRSTYabcefghijklmnopqrstuvz FIJLYabefghjkloqv
+2025-09-24 11:02:59	--	ACCEPT=30 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=rfc1459 CHANLIMIT=#:20 CHANMODES=IYbeg,k,FJLfjl,BCDGKMNOPQRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e are supported by this server
+2025-09-24 11:02:59	--	EXTBAN=,BCNOQRSTUcsz HOSTLEN=64 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=Ibeg:100 MAXTARGETS=20 MODES=20 NAMESX NETWORK=OverTheWire NICKLEN=31 PREFIX=(qaohv)~&@%+ are supported by this server
+2025-09-24 11:02:59	--	SAFELIST SILENCE=32 STATUSMSG=~&@%+ TOPICLEN=307 USERIP USERLEN=11 USERMODES=,,s,BGHILRSWcdgikorwx WATCH=30 WHOX are supported by this server
+2025-09-24 11:02:59	--	There are 107 users and 51 invisible on 6 servers
+2025-09-24 11:02:59	--	3 operator(s) online
+2025-09-24 11:02:59	--	1 unknown connections
+2025-09-24 11:02:59	--	29 channels formed
+2025-09-24 11:02:59	--	I have 79 clients and 1 servers
+2025-09-24 11:02:59	--	Current local users: 79  Max: 100
+2025-09-24 11:02:59	--	Current global users: 158  Max: 174
+2025-09-24 11:02:59	--	ircs.overthewire.org message of the day
+2025-09-24 11:02:59	--	 You are on the joint IRC network of OverTheWire and SmashTheStack
+2025-09-24 11:02:59	--	 
+2025-09-24 11:02:59	--	 http://www.overthewire.org/
+2025-09-24 11:02:59	--	 http://www.smashthestack.org/
+2025-09-24 11:02:59	--	 
+2025-09-24 11:02:59	--	 TLS available on ports 6697 on ircs.overthewire.org and irc.smashthestack.org
+2025-09-24 11:02:59	--	 
+2025-09-24 11:02:59	--	 The main channel is #social
+2025-09-24 11:02:59	--	 Wargames can be discussed in #wargames for OverTheWire games 
+2025-09-24 11:02:59	--	 or in the respective wargame channels for SmashTheStack games 
+2025-09-24 11:02:59	--	End of message of the day.
+2025-09-24 11:02:59	--	xxx-e4h.795.mjdagc.IP is now your displayed host
+2025-09-24 11:02:59	--	User mode [+x] by Linetek
+2025-09-24 11:02:59	--	NickServ (services@services.smashthestack.org): Your nickname is not registered. To register it, use: /msg NickServ REGISTER password email
+2025-09-24 11:04:10	--	You are now known as cpu624049
+2025-09-24 11:05:15	--	Msg(cpu624049) -> NickServ: REGISTER *********************************
+2025-09-24 11:05:15	--	NickServ (services@services.smashthestack.org): Nickname cpu624049 registered.
+2025-09-24 11:05:15	--	You are now logged in as cpu624049 (cpu624049!Linetek@xxx-e4h.795.mjdagc.IP)
+2025-09-24 11:05:15	--	User mode [+r] by NickServ
+2025-09-24 11:06:07	--	irc: disconnected from server
+2025-09-24 11:07:21	--	irc: connecting to server ircs.overthewire.org/6667...
+2025-09-24 11:07:21	--	irc: connected to ircs.overthewire.org/6667 (13.49.61.60)
+2025-09-24 11:07:21	--	ircs.overthewire.org: *** Looking up your hostname...
+2025-09-24 11:07:22	--	irc: client capability, server supports: inspircd.org/poison inspircd.org/standard-replies multi-prefix setname
+2025-09-24 11:07:22	--	irc: client capability, requesting: multi-prefix setname
+2025-09-24 11:07:22	--	ircs.overthewire.org: *** Could not resolve your hostname: Domain not found; using your IP address (112.169.91.76) instead.
+2025-09-24 11:07:22	--	irc: client capability, enabled: multi-prefix setname
+2025-09-24 11:07:23	--	Welcome to the OverTheWire IRC Network Linetek!Linetek@112.169.91.76
+2025-09-24 11:07:23	--	Your host is ircs.overthewire.org, running version InspIRCd-3
+2025-09-24 11:07:23	--	This server was created 17:43:09 Jul 04 2024
+2025-09-24 11:07:23	--	ircs.overthewire.org InspIRCd-3 BGHILRSWcdgikorswx BCDFGIJKLMNOPQRSTYabcefghijklmnopqrstuvz FIJLYabefghjkloqv
+2025-09-24 11:07:23	--	ACCEPT=30 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=rfc1459 CHANLIMIT=#:20 CHANMODES=IYbeg,k,FJLfjl,BCDGKMNOPQRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e are supported by this server
+2025-09-24 11:07:23	--	EXTBAN=,BCNOQRSTUcsz HOSTLEN=64 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=Ibeg:100 MAXTARGETS=20 MODES=20 NAMESX NETWORK=OverTheWire NICKLEN=31 PREFIX=(qaohv)~&@%+ are supported by this server
+2025-09-24 11:07:23	--	SAFELIST SILENCE=32 STATUSMSG=~&@%+ TOPICLEN=307 USERIP USERLEN=11 USERMODES=,,s,BGHILRSWcdgikorwx WATCH=30 WHOX are supported by this server
+2025-09-24 11:07:23	--	There are 107 users and 51 invisible on 6 servers
+2025-09-24 11:07:23	--	3 operator(s) online
+2025-09-24 11:07:23	--	2 unknown connections
+2025-09-24 11:07:23	--	29 channels formed
+2025-09-24 11:07:23	--	I have 79 clients and 1 servers
+2025-09-24 11:07:23	--	Current local users: 79  Max: 100
+2025-09-24 11:07:23	--	Current global users: 158  Max: 174
+2025-09-24 11:07:23	--	ircs.overthewire.org message of the day
+2025-09-24 11:07:23	--	 You are on the joint IRC network of OverTheWire and SmashTheStack
+2025-09-24 11:07:23	--	 
+2025-09-24 11:07:23	--	 http://www.overthewire.org/
+2025-09-24 11:07:23	--	 http://www.smashthestack.org/
+2025-09-24 11:07:23	--	 
+2025-09-24 11:07:23	--	 TLS available on ports 6697 on ircs.overthewire.org and irc.smashthestack.org
+2025-09-24 11:07:23	--	 
+2025-09-24 11:07:23	--	 The main channel is #social
+2025-09-24 11:07:23	--	 Wargames can be discussed in #wargames for OverTheWire games 
+2025-09-24 11:07:23	--	 or in the respective wargame channels for SmashTheStack games 
+2025-09-24 11:07:23	--	End of message of the day.
+2025-09-24 11:07:23	--	xxx-e4h.795.mjdagc.IP is now your displayed host
+2025-09-24 11:07:23	--	User mode [+x] by Linetek
+2025-09-24 11:07:23	--	NickServ (services@services.smashthestack.org): Your nickname is not registered. To register it, use: /msg NickServ REGISTER password email
+2025-09-24 11:07:35	--	irc: disconnected from server
+2025-09-24 11:10:40	--	irc: connecting to server ircs.overthewire.org/6667...
+2025-09-24 11:10:40	--	irc: connected to ircs.overthewire.org/6667 (13.49.61.60)
+2025-09-24 11:10:40	--	ircs.overthewire.org: *** Looking up your hostname...
+2025-09-24 11:10:41	--	ircs.overthewire.org: *** Could not resolve your hostname: Domain not found; using your IP address (112.169.91.76) instead.
+2025-09-24 11:10:41	--	irc: client capability, server supports: inspircd.org/poison inspircd.org/standard-replies multi-prefix setname
+2025-09-24 11:10:41	--	irc: client capability, requesting: multi-prefix setname
+2025-09-24 11:10:41	--	irc: client capability, enabled: multi-prefix setname
+2025-09-24 11:10:42	--	Welcome to the OverTheWire IRC Network cpu624049!Linetek@112.169.91.76
+2025-09-24 11:10:42	--	Your host is ircs.overthewire.org, running version InspIRCd-3
+2025-09-24 11:10:42	--	This server was created 17:43:09 Jul 04 2024
+2025-09-24 11:10:42	--	ircs.overthewire.org InspIRCd-3 BGHILRSWcdgikorswx BCDFGIJKLMNOPQRSTYabcefghijklmnopqrstuvz FIJLYabefghjkloqv
+2025-09-24 11:10:42	--	ACCEPT=30 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=rfc1459 CHANLIMIT=#:20 CHANMODES=IYbeg,k,FJLfjl,BCDGKMNOPQRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e are supported by this server
+2025-09-24 11:10:42	--	EXTBAN=,BCNOQRSTUcsz HOSTLEN=64 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=Ibeg:100 MAXTARGETS=20 MODES=20 NAMESX NETWORK=OverTheWire NICKLEN=31 PREFIX=(qaohv)~&@%+ are supported by this server
+2025-09-24 11:10:42	--	SAFELIST SILENCE=32 STATUSMSG=~&@%+ TOPICLEN=307 USERIP USERLEN=11 USERMODES=,,s,BGHILRSWcdgikorwx WATCH=30 WHOX are supported by this server
+2025-09-24 11:10:42	--	There are 107 users and 51 invisible on 6 servers
+2025-09-24 11:10:42	--	3 operator(s) online
+2025-09-24 11:10:42	--	2 unknown connections
+2025-09-24 11:10:42	--	29 channels formed
+2025-09-24 11:10:42	--	I have 79 clients and 1 servers
+2025-09-24 11:10:42	--	Current local users: 79  Max: 100
+2025-09-24 11:10:42	--	Current global users: 158  Max: 174
+2025-09-24 11:10:42	--	ircs.overthewire.org message of the day
+2025-09-24 11:10:42	--	 You are on the joint IRC network of OverTheWire and SmashTheStack
+2025-09-24 11:10:42	--	 
+2025-09-24 11:10:42	--	 http://www.overthewire.org/
+2025-09-24 11:10:42	--	 http://www.smashthestack.org/
+2025-09-24 11:10:42	--	 
+2025-09-24 11:10:42	--	 TLS available on ports 6697 on ircs.overthewire.org and irc.smashthestack.org
+2025-09-24 11:10:42	--	 
+2025-09-24 11:10:42	--	 The main channel is #social
+2025-09-24 11:10:42	--	 Wargames can be discussed in #wargames for OverTheWire games 
+2025-09-24 11:10:42	--	 or in the respective wargame channels for SmashTheStack games 
+2025-09-24 11:10:42	--	End of message of the day.
+2025-09-24 11:10:42	--	xxx-e4h.795.mjdagc.IP is now your displayed host
+2025-09-24 11:10:42	--	User mode [+x] by cpu624049
+2025-09-24 11:10:43	--	NickServ (services@services.smashthestack.org): This nickname is registered and protected.  If it is your
+2025-09-24 11:10:43	--	NickServ (services@services.smashthestack.org): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2025-09-24 11:10:43	--	NickServ (services@services.smashthestack.org): please choose a different nick.
+2025-09-24 11:11:23	--	irc: connecting to server ircs.overthewire.org/6667...
+2025-09-24 11:11:24	--	irc: connected to ircs.overthewire.org/6667 (13.49.61.60)
+2025-09-24 11:11:24	--	ircs.overthewire.org: *** Looking up your hostname...
+2025-09-24 11:11:24	--	ircs.overthewire.org: *** Could not resolve your hostname: Domain not found; using your IP address (112.169.91.76) instead.
+2025-09-24 11:11:24	--	irc: client capability, server supports: inspircd.org/poison inspircd.org/standard-replies multi-prefix setname
+2025-09-24 11:11:24	--	irc: client capability, requesting: multi-prefix setname
+2025-09-24 11:11:25	--	irc: client capability, enabled: multi-prefix setname
+2025-09-24 11:11:26	--	Welcome to the OverTheWire IRC Network cpu624049!Linetek@112.169.91.76
+2025-09-24 11:11:26	--	Your host is ircs.overthewire.org, running version InspIRCd-3
+2025-09-24 11:11:26	--	This server was created 17:43:09 Jul 04 2024
+2025-09-24 11:11:26	--	ircs.overthewire.org InspIRCd-3 BGHILRSWcdgikorswx BCDFGIJKLMNOPQRSTYabcefghijklmnopqrstuvz FIJLYabefghjkloqv
+2025-09-24 11:11:26	--	ACCEPT=30 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=rfc1459 CHANLIMIT=#:20 CHANMODES=IYbeg,k,FJLfjl,BCDGKMNOPQRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e are supported by this server
+2025-09-24 11:11:26	--	EXTBAN=,BCNOQRSTUcsz HOSTLEN=64 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=Ibeg:100 MAXTARGETS=20 MODES=20 NAMESX NETWORK=OverTheWire NICKLEN=31 PREFIX=(qaohv)~&@%+ are supported by this server
+2025-09-24 11:11:26	--	SAFELIST SILENCE=32 STATUSMSG=~&@%+ TOPICLEN=307 USERIP USERLEN=11 USERMODES=,,s,BGHILRSWcdgikorwx WATCH=30 WHOX are supported by this server
+2025-09-24 11:11:26	--	There are 107 users and 51 invisible on 6 servers
+2025-09-24 11:11:26	--	3 operator(s) online
+2025-09-24 11:11:26	--	2 unknown connections
+2025-09-24 11:11:26	--	29 channels formed
+2025-09-24 11:11:26	--	I have 79 clients and 1 servers
+2025-09-24 11:11:26	--	Current local users: 79  Max: 100
+2025-09-24 11:11:26	--	Current global users: 158  Max: 174
+2025-09-24 11:11:26	--	ircs.overthewire.org message of the day
+2025-09-24 11:11:26	--	 You are on the joint IRC network of OverTheWire and SmashTheStack
+2025-09-24 11:11:26	--	 
+2025-09-24 11:11:26	--	 http://www.overthewire.org/
+2025-09-24 11:11:26	--	 http://www.smashthestack.org/
+2025-09-24 11:11:26	--	 
+2025-09-24 11:11:26	--	 TLS available on ports 6697 on ircs.overthewire.org and irc.smashthestack.org
+2025-09-24 11:11:26	--	 
+2025-09-24 11:11:26	--	 The main channel is #social
+2025-09-24 11:11:26	--	 Wargames can be discussed in #wargames for OverTheWire games 
+2025-09-24 11:11:26	--	 or in the respective wargame channels for SmashTheStack games 
+2025-09-24 11:11:26	--	End of message of the day.
+2025-09-24 11:11:26	--	xxx-e4h.795.mjdagc.IP is now your displayed host
+2025-09-24 11:11:26	--	User mode [+x] by cpu624049
+2025-09-24 11:11:27	--	NickServ (services@services.smashthestack.org): This nickname is registered and protected.  If it is your
+2025-09-24 11:11:27	--	NickServ (services@services.smashthestack.org): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2025-09-24 11:11:27	--	NickServ (services@services.smashthestack.org): please choose a different nick.
+2025-09-24 11:11:57	--	Msg(cpu624049) -> NickServ: IDENTIFY ***********
+2025-09-24 11:11:57	--	NickServ (services@services.smashthestack.org): Password accepted - you are now recognized.
+2025-09-24 11:11:57	--	You are now logged in as cpu624049 (cpu624049!Linetek@xxx-e4h.795.mjdagc.IP)
+2025-09-24 11:11:57	--	User mode [+r] by NickServ
+2025-09-24 11:12:35	--	irc: disconnected from server
+2025-09-24 11:18:16	=!=	irc: not connected to server "otw"!

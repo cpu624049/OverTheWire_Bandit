@@ -1,0 +1,231 @@
+2025-09-24 10:38:19		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, relay, script, trigger, typing, xfer
+2025-09-24 10:41:37		irc: server added: owtssl -> ircs.overthewire.org/6697 (TLS: enabled)
+2025-09-24 10:41:47	=!=	You cannot write text in this buffer
+2025-09-24 10:42:09	=!=	irc: server "owtssl" already exists
+2025-09-24 10:42:21		irc: server added: owt -> irc.overthewire.org/6667 (TLS: enabled)
+2025-09-24 10:47:30		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, relay, script, trigger, typing, xfer
+2025-09-24 10:48:06		
+2025-09-24 10:48:06		[core]
+2025-09-24 10:48:06		  allbuf   debug    item     print    secure   version
+2025-09-24 10:48:06		  away     eval     key      proxy    set      wait   
+2025-09-24 10:48:06		  bar      filter   layout   quit     sys      window 
+2025-09-24 10:48:06		  buffer   help     mouse    reload   toggle 
+2025-09-24 10:48:06		  color    history  mute     repeat   unset  
+2025-09-24 10:48:06		  command  hotlist  pipe     reset    upgrade
+2025-09-24 10:48:06		  cursor   input    plugin   save     uptime 
+2025-09-24 10:48:06		
+2025-09-24 10:48:06		[alias]
+2025-09-24 10:48:06		  aaway    chat     k        n        ub       wii    
+2025-09-24 10:48:06		  alias    cl       kb       q        umode    wm     
+2025-09-24 10:48:06		  anick    close    leave    redraw   v        ww     
+2025-09-24 10:48:06		  beep     exit     m        say      w      
+2025-09-24 10:48:06		  bye      ig       msgbuf   signoff  wc     
+2025-09-24 10:48:06		  c        j        mub      t        wi     
+2025-09-24 10:48:06		
+2025-09-24 10:48:06		[buflist]
+2025-09-24 10:48:06		  buflist
+2025-09-24 10:48:06		
+2025-09-24 10:48:06		[charset]
+2025-09-24 10:48:06		  charset
+2025-09-24 10:48:06		
+2025-09-24 10:48:06		[exec]
+2025-09-24 10:48:06		  exec
+2025-09-24 10:48:06		
+2025-09-24 10:48:06		[fifo]
+2025-09-24 10:48:06		  fifo
+2025-09-24 10:48:06		
+2025-09-24 10:48:06		[fset]
+2025-09-24 10:48:06		  fset
+2025-09-24 10:48:06		
+2025-09-24 10:48:06		[irc]
+2025-09-24 10:48:06		  action      info        op          servlist  
+2025-09-24 10:48:06		  admin       invite      oper        setname   
+2025-09-24 10:48:06		  allchan     ison        part        squery    
+2025-09-24 10:48:06		  allpv       join        ping        squit     
+2025-09-24 10:48:06		  allserv     kick        pong        stats     
+2025-09-24 10:48:06		  auth        kickban     query       summon    
+2025-09-24 10:48:06		  autojoin    kill        quiet       time      
+2025-09-24 10:48:06		  ban         knock       quote       topic     
+2025-09-24 10:48:06		  cap         links       reconnect   trace     
+2025-09-24 10:48:06		  connect     list        rehash      unban     
+2025-09-24 10:48:06		  ctcp        lusers      remove      unquiet   
+2025-09-24 10:48:06		  cycle       map         restart     userhost  
+2025-09-24 10:48:06		  dcc         me          rules       users     
+2025-09-24 10:48:06		  dehalfop    mode        sajoin      version   
+2025-09-24 10:48:06		  deop        motd        samode      voice     
+2025-09-24 10:48:06		  devoice     msg         sanick      wallchops 
+2025-09-24 10:48:06		  die         names       sapart      wallops   
+2025-09-24 10:48:06		  disconnect  nick        saquit      who       
+2025-09-24 10:48:06		  halfop      notice      server      whois     
+2025-09-24 10:48:06		  ignore      notify      service     whowas    
+2025-09-24 10:48:06		
+2025-09-24 10:48:06		[logger]
+2025-09-24 10:48:06		  logger
+2025-09-24 10:48:06		
+2025-09-24 10:48:06		[relay]
+2025-09-24 10:48:06		  relay  remote
+2025-09-24 10:48:06		
+2025-09-24 10:48:06		[script]
+2025-09-24 10:48:06		  script
+2025-09-24 10:48:06		
+2025-09-24 10:48:06		[trigger]
+2025-09-24 10:48:06		  trigger
+2025-09-24 10:48:06		
+2025-09-24 10:48:06		[xfer]
+2025-09-24 10:48:06		  me  xfer
+2025-09-24 10:49:29	=!=	You cannot write text in this buffer
+2025-09-24 10:49:45		
+2025-09-24 10:49:45		[core]
+2025-09-24 10:49:45		  allbuf   debug    item     print    secure   version
+2025-09-24 10:49:45		  away     eval     key      proxy    set      wait   
+2025-09-24 10:49:45		  bar      filter   layout   quit     sys      window 
+2025-09-24 10:49:45		  buffer   help     mouse    reload   toggle 
+2025-09-24 10:49:45		  color    history  mute     repeat   unset  
+2025-09-24 10:49:45		  command  hotlist  pipe     reset    upgrade
+2025-09-24 10:49:45		  cursor   input    plugin   save     uptime 
+2025-09-24 10:49:45		
+2025-09-24 10:49:45		[alias]
+2025-09-24 10:49:45		  aaway    chat     k        n        ub       wii    
+2025-09-24 10:49:45		  alias    cl       kb       q        umode    wm     
+2025-09-24 10:49:45		  anick    close    leave    redraw   v        ww     
+2025-09-24 10:49:45		  beep     exit     m        say      w      
+2025-09-24 10:49:45		  bye      ig       msgbuf   signoff  wc     
+2025-09-24 10:49:45		  c        j        mub      t        wi     
+2025-09-24 10:49:45		
+2025-09-24 10:49:45		[buflist]
+2025-09-24 10:49:45		  buflist
+2025-09-24 10:49:45		
+2025-09-24 10:49:45		[charset]
+2025-09-24 10:49:45		  charset
+2025-09-24 10:49:45		
+2025-09-24 10:49:45		[exec]
+2025-09-24 10:49:45		  exec
+2025-09-24 10:49:45		
+2025-09-24 10:49:45		[fifo]
+2025-09-24 10:49:45		  fifo
+2025-09-24 10:49:45		
+2025-09-24 10:49:45		[fset]
+2025-09-24 10:49:45		  fset
+2025-09-24 10:49:45		
+2025-09-24 10:49:45		[irc]
+2025-09-24 10:49:45		  action      info        op          servlist  
+2025-09-24 10:49:45		  admin       invite      oper        setname   
+2025-09-24 10:49:45		  allchan     ison        part        squery    
+2025-09-24 10:49:45		  allpv       join        ping        squit     
+2025-09-24 10:49:45		  allserv     kick        pong        stats     
+2025-09-24 10:49:45		  auth        kickban     query       summon    
+2025-09-24 10:49:45		  autojoin    kill        quiet       time      
+2025-09-24 10:49:45		  ban         knock       quote       topic     
+2025-09-24 10:49:45		  cap         links       reconnect   trace     
+2025-09-24 10:49:45		  connect     list        rehash      unban     
+2025-09-24 10:49:45		  ctcp        lusers      remove      unquiet   
+2025-09-24 10:49:45		  cycle       map         restart     userhost  
+2025-09-24 10:49:45		  dcc         me          rules       users     
+2025-09-24 10:49:45		  dehalfop    mode        sajoin      version   
+2025-09-24 10:49:45		  deop        motd        samode      voice     
+2025-09-24 10:49:45		  devoice     msg         sanick      wallchops 
+2025-09-24 10:49:45		  die         names       sapart      wallops   
+2025-09-24 10:49:45		  disconnect  nick        saquit      who       
+2025-09-24 10:49:45		  halfop      notice      server      whois     
+2025-09-24 10:49:45		  ignore      notify      service     whowas    
+2025-09-24 10:49:45		
+2025-09-24 10:49:45		[logger]
+2025-09-24 10:49:45		  logger
+2025-09-24 10:49:45		
+2025-09-24 10:49:45		[relay]
+2025-09-24 10:49:45		  relay  remote
+2025-09-24 10:49:45		
+2025-09-24 10:49:45		[script]
+2025-09-24 10:49:45		  script
+2025-09-24 10:49:45		
+2025-09-24 10:49:45		[trigger]
+2025-09-24 10:49:45		  trigger
+2025-09-24 10:49:45		
+2025-09-24 10:49:45		[xfer]
+2025-09-24 10:49:45		  me  xfer
+2025-09-24 10:50:35		irc: server owt has been deleted
+2025-09-24 10:50:41		irc: server owtssl has been deleted
+2025-09-24 10:50:43		No server
+2025-09-24 10:51:12		irc: server added: otws -> irc.overthewire.org/6697 (TLS: enabled)
+2025-09-24 10:51:23	=!=	Option "irc.server_default.ssl_verify" not found
+2025-09-24 10:51:41	=!=	Option "irc.server_default.ssl_dhkey_size" not found
+2025-09-24 10:52:08		
+2025-09-24 10:52:08		All servers:
+2025-09-24 10:52:08		   otws
+2025-09-24 10:52:18		irc: server added: owt -> irc.overthewire.org/6667 (TLS: enabled)
+2025-09-24 10:52:22		
+2025-09-24 10:52:22		All servers:
+2025-09-24 10:52:22		   otws
+2025-09-24 10:52:22		   owt
+2025-09-24 10:53:07		irc: server owt has been deleted
+2025-09-24 10:53:09		
+2025-09-24 10:53:09		All servers:
+2025-09-24 10:53:09		   otws
+2025-09-24 10:53:12		irc: server otws has been deleted
+2025-09-24 10:53:16	=!=	irc: server "owt" not found for "server del" command
+2025-09-24 10:53:20		No server
+2025-09-24 10:53:45		irc: server added: otws -> irc.overthewire.org/6687 (TLS: enabled)
+2025-09-24 10:54:20	=!=	irc: command "join" must be executed on connected irc server
+2025-09-24 10:54:34		
+2025-09-24 10:54:34		All servers:
+2025-09-24 10:54:34		   otws
+2025-09-24 10:58:19		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, relay, script, trigger, typing, xfer
+2025-09-24 10:58:31		Option unchanged: weechat.network.gnutls_ca_system = on
+2025-09-24 10:58:44		
+2025-09-24 10:58:44		All servers:
+2025-09-24 10:58:44		   otws
+2025-09-24 10:58:51	=!=	Option "irc.server.otws.ssl" not found
+2025-09-24 10:59:15	=!=	Option "irc.server.otws.ssl_verify" not found
+2025-09-24 10:59:44	=!=	Unknown command "disconnected" (type /help for help), commands with similar name: disconnect, connect, c, n, t
+2025-09-24 10:59:51		
+2025-09-24 10:59:51		All servers:
+2025-09-24 10:59:51		   otws
+2025-09-24 11:00:17		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, relay, script, trigger, typing, xfer
+2025-09-24 11:00:24		
+2025-09-24 11:00:24		All servers:
+2025-09-24 11:00:24		   otws
+2025-09-24 11:00:32		irc: server added: otw -> irc.overthewire.org/6667 (TLS: enabled)
+2025-09-24 11:00:50		
+2025-09-24 11:00:50		All servers:
+2025-09-24 11:00:50		   otws
+2025-09-24 11:00:50		   otw
+2025-09-24 11:02:06		
+2025-09-24 11:02:06		All servers:
+2025-09-24 11:02:06		   otws
+2025-09-24 11:02:06		   otw
+2025-09-24 11:02:10		irc: server otw has been deleted
+2025-09-24 11:02:12		
+2025-09-24 11:02:12		All servers:
+2025-09-24 11:02:12		   otws
+2025-09-24 11:02:46		irc: server added: otw -> ircs.overthewire.org/6667 (TLS: disabled)
+2025-09-24 11:02:49	=!=	You cannot write text in this buffer
+2025-09-24 11:02:52		
+2025-09-24 11:02:52		All servers:
+2025-09-24 11:02:52		   otws
+2025-09-24 11:02:52		   otw
+2025-09-24 11:06:22	=!=	Option "irc.server.otw_mechanism" not found
+2025-09-24 11:06:38	=!=	Option "irc.server.otw_username" not found
+2025-09-24 11:07:37		
+2025-09-24 11:07:37		All servers:
+2025-09-24 11:07:37		   otws
+2025-09-24 11:07:37		   otw
+2025-09-24 11:07:52		
+2025-09-24 11:07:52		All servers:
+2025-09-24 11:07:52		   otws
+2025-09-24 11:07:52		   otw
+2025-09-24 11:07:56		irc: server otws has been deleted
+2025-09-24 11:08:25		irc: server added: otws -> ircs.overthewire.org/6697 (TLS: enabled)
+2025-09-24 11:10:04		
+2025-09-24 11:10:04		All servers:
+2025-09-24 11:10:04		   otw
+2025-09-24 11:10:04		   otws
+2025-09-24 11:10:24		Option changed: irc.server.otw.nicks = "cpu624049"  (default if null: "${username},${username}2,${username}3,${username}4,${username}5")
+2025-09-24 11:10:35		Option changed: irc.server.otws.nicks = "cpu624049"  (default if null: "${username},${username}2,${username}3,${username}4,${username}5")
+2025-09-24 11:11:01	=!=	irc: already connected to server "otw"!
+2025-09-24 11:11:18		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, relay, script, trigger, typing, xfer
+2025-09-24 11:11:20		
+2025-09-24 11:11:20		All servers:
+2025-09-24 11:11:20		   otw
+2025-09-24 11:11:20		   otws
+2025-09-24 11:15:05	=!=	Unknown command "close\" (type /help for help), commands with similar name: close, c, cl
+2025-09-24 11:18:08	=!=	WeeChat main buffer can't be closed
